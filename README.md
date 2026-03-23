@@ -4,7 +4,7 @@ This repository contains structured documentation for a semester-long research p
 
 ## Contents
 
-- Mid-term and final reports
+- Mid-term and final reports (subject to confidentiality constraints)
 - Project synopsis
 - Presentation materials
 - Supporting documentation (non-confidential)
