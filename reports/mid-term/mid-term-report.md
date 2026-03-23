@@ -1,16 +1,24 @@
 # Mid-Term Report
 
-## Status
+## Overview
 
-This report is currently withheld from public access due to confidentiality constraints associated with the project.
+This document represents the mid-term progress of the ongoing research work conducted during the semester.
+
+## Note on Content
+
+A sanitized version is presented here in accordance with confidentiality requirements associated with the project.
 
 ## Description
 
-The mid-term report documents the progress, methodology, and intermediate findings of the ongoing research work conducted during the semester.
+The mid-term work includes:
+- Problem understanding and definition
+- Background study and literature review
+- Initial methodology design
+- Preliminary experimentation and observations
 
-## Access Note
+## Access
 
-A sanitized or full version of the report may be made available for academic evaluation purposes upon request and appropriate authorization.
+The complete report has been formally submitted to the designated academic authorities for evaluation.
 
 ## Author
 
